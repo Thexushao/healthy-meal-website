@@ -1,5 +1,5 @@
 網站連結
-https://github.com/Thexushao/line-japanese-bot
+https://github.com/Thexushao/line-japanese-bot</p>
 首頁
 <img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/356a920c-e767-4ca1-afc9-ecee2597e2d0" />
 關於我們
